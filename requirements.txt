@@ -1,3 +1,4 @@
-aiohttp>=3.8
+aiohttp>=3.10.11
 yarl>=1.8
 typing-extensions>=4.8
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
